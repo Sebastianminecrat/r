@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 0%, rgba(0,212,255,1) 100%);
+}
+button{
+background-color: rgb(255, 0, 0);
+padding: 50px;
+border-radius: 20px;
+}
